@@ -150,7 +150,7 @@ Initially, for a given optimization problem characterised by a cost function �
 
 JuliQAOA's approach of pre-computation and purpose-built simulation surpasses existing alternatives. Its requirement of only a list of 𝐶(𝑥) values across feasible states provides flexibility in choosing cost functions. Notably, JuliQAOA excels in constrained optimization, eliminating the need for artificial "penalty" terms in traditional circuit-based simulators. This unique design allows the use of mixers confined within the feasible subspace, disregarding non-feasible states. This enhances accuracy and significantly reduces computational efforts.
 
-# **References: **
+# **References:**
 
 1. D Wave's Problem solving handbook [https://docs.dwavesys.com/docs/latest/doc\_handbook.html](https://docs.dwavesys.com/docs/latest/doc_handbook.html)
 
